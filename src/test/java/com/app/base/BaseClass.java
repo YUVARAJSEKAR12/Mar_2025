@@ -32,7 +32,7 @@ import org.openqa.selenium.support.ui.Select;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
-	//sample test one
+	//sample test one fetch
 	public static WebDriver driver = null;
 	
 	@BeforeClass
