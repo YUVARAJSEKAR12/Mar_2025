@@ -135,6 +135,5 @@ public class BaseClass {
 		}
 
 	}
-public static void test1(){
-	System.out.println("one");		
+	
 }
