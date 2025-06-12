@@ -8,6 +8,9 @@ public class Exe extends BookAHotelPageExe {
 	//testone
 	//testtwo
 	//test three
+	public void test2() {
+		System.out.println("test2");
+	}
 	@Test
 	public void test() {
 		username();
